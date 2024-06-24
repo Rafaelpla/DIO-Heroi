@@ -14,7 +14,7 @@ if(heroi[1] < 1000){
     heroi[2] = "Ascendente"
 }else if(heroi[1] < 10000){
     heroi[2] = "Imortal"
-}else if(heroi[1] >= 10000){
+}else{
     heroi[2] = "Radiante"
 }
 
